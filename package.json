@@ -10,13 +10,21 @@
     "package": "plasmo package"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.51.9",
+    "autoprefixer": "^10.4.19",
+    "framer-motion": "^11.3.7",
+    "lodash": "^4.17.21",
+    "openai": "^4.52.7",
     "plasmo": "0.88.0",
+    "postcss": "^8.4.39",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "tailwindcss": "^3.4.6"
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "4.1.1",
     "@types/chrome": "0.0.258",
+    "@types/lodash": "^4.17.7",
     "@types/node": "20.11.5",
     "@types/react": "18.2.48",
     "@types/react-dom": "18.2.18",
